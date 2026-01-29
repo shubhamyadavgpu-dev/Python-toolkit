@@ -1,0 +1,6 @@
+file = open(r"C:\Coder\frontend\The_Ultimate_Python_Programming\CHAPTER-07[File_input]\practice.txt","w")
+file.write("Hi everyone\n")
+file.write("we are learning file I/O\n")
+file.write("Using Java.\n")
+file.write("I like programming in Java.")
+file.close()

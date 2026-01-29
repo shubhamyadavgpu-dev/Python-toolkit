@@ -1,0 +1,5 @@
+f = open(r"C:\Coder\frontend\The_Ultimate_Python_Programming\CHAPTER-07[File_input]\as.txt","r")
+content = f.readline()
+print(content)
+print(type(content))
+f.close()
